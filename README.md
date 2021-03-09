@@ -1,1 +1,2 @@
-# Salary-Prediction-using-Linear-Regression
+# Salary-Prediction
+-Using Linear Regression
